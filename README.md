@@ -1,6 +1,6 @@
 # Piggybank-Zookeeper
 	
-	- Zookeeper 3.4.6 running on Docker
+	## Zookeeper 3.4.6 running on Docker
 
 	docker pull raycoding/piggybank-zookeeper
 
